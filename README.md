@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on learning more and finding a job. 
-🌱 I’m currently learning Vue.js and Next.js
-💬 Ask me about anything!
-📫 How to reach me: esarq001@fiu.edu
-⚡ Fun fact: Life changes and surprises you in ways you never imagined. 
+-🔭 I’m currently working on learning more and finding a job. 
+-🌱 I’m currently learning Vue.js and Next.js
+-💬 Ask me about anything!
+-📫 How to reach me: esarq001@fiu.edu
+-⚡ Fun fact: Life changes and surprises you in ways you never imagined. 
 
 ---
 
