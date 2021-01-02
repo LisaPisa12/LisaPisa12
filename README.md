@@ -1,8 +1,6 @@
 ### Hi there I'm Eli (or LisaPisa for devs) 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on learning more and finding a job. 
 - 🌱 I’m currently learning Vue.js and Next.js
 - 💬 Ask me about anything!
